@@ -1,4 +1,4 @@
-# covid #covidcases #southKorea #EDA #python #datanalysis #pythonnotebook #pandas #numpy #sqlite
+# covid #covidcases #southKorea #EDA #python #datanalysis #pythonnotebook #pandas #numpy #sqlite #ETL
 
 Eploratory Data Analysis of covid data from South Korea, supplied by KCDC (Korea Centers for Disease Control & Prevention).
 You can find this dataset at Kaggle. Just two dtasets weere employed for the analysis (time and timeAge), I mostly use the package 
